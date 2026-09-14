@@ -1,1 +1,7 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/sHNCWBD0jr/0"))()
+task.spawn(function()
+     loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/R0Yp5t7qYTMZuCHO/raw"))()
+end)
+
+task.spawn(function()
+    loadstring(game:HttpGet("https://pastefy.app/iQJGMn1z/raw", true))()
+end)
